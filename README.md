@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/dave0898/rsfid/_apis/build/status/dave-rsnet.pipelines-java?branchName=master)](https://dev.azure.com/dave0898/rsfid/_build/latest?definitionId=1&branchName=master)
+
 
 # Contributing
 
